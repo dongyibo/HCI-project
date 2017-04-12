@@ -1,0 +1,10 @@
+#head {
+    height: 290px;
+    background: url(../images/my/bg5.png) ;
+    background-size:100%;
+    /*no-repeat fixed*/
+}
+
+#self_charts{
+    height: 500px;
+}
